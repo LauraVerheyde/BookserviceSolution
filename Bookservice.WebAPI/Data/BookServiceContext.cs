@@ -48,7 +48,9 @@ namespace Bookservice.WebAPI.Data
                     NumberOfPages = 420,
                     FileName = "book1.jpg",
                     AuthorId = 1,
-                    PublisherId = 1
+                    PublisherId = 1,
+                    Year = 2018,
+                    Price = 24.99M
                 },
                 new
                 {
@@ -58,7 +60,9 @@ namespace Bookservice.WebAPI.Data
                     NumberOfPages = 360,
                     FileName = "book2.jpg",
                     AuthorId = 2,
-                    PublisherId = 1
+                    PublisherId = 1,
+                    Year = 2016,
+                    Price = 35.99M
                 },
                 new
                 {
@@ -68,7 +72,9 @@ namespace Bookservice.WebAPI.Data
                     NumberOfPages = 360,
                     FileName = "book3.jpg",
                     AuthorId = 1,
-                    PublisherId = 1
+                    PublisherId = 1,
+                    Year = 2017,
+                    Price = 50.00M
                 },
                 new
                 {
@@ -78,7 +84,9 @@ namespace Bookservice.WebAPI.Data
                     NumberOfPages = 360,
                     FileName = "book1.jpg",
                     AuthorId = 2,
-                    PublisherId = 1
+                    PublisherId = 1,
+                    Year = 2018,
+                    Price = 45.00M
                 },
                 new
                 {
@@ -88,7 +96,9 @@ namespace Bookservice.WebAPI.Data
                     NumberOfPages = 420,
                     FileName = "book2.jpg",
                     AuthorId = 2,
-                    PublisherId = 1
+                    PublisherId = 1,
+                    Year = 2017,
+                    Price = 70.50M
                 },
                 new
                 {
@@ -98,7 +108,9 @@ namespace Bookservice.WebAPI.Data
                     NumberOfPages = 40,
                     FileName = "book3.jpg",
                     AuthorId = 3,
-                    PublisherId = 2
+                    PublisherId = 2,
+                    Year = 2007,
+                    Price = 52.00M
                 },
                 new
                 {
@@ -108,7 +120,9 @@ namespace Bookservice.WebAPI.Data
                     NumberOfPages = 53,
                     FileName = "book3.jpg",
                     AuthorId = 3,
-                    PublisherId = 2
+                    PublisherId = 2,
+                    Year = 2017,
+                    Price = 30.00M
                 }
                 );
 
